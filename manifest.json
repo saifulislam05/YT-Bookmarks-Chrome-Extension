@@ -25,7 +25,9 @@
       "default_icon": {
          "16": "icons/ext-icon.png",
          "24": "icons/ext-icon.png",
-         "32": "icons/ext-icon.png"
+         "32": "icons/ext-icon.png",
+         "48": "icons/ext-icon.png",
+         "96": "icons/ext-icon.png"
       },
       "default_title": "YT Bookmarks",
       "default_popup": "popup/popup.html"

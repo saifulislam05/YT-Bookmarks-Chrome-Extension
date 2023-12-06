@@ -11,3 +11,8 @@ YT Bookmarks is a Chrome extension that enables users to save timestamps as book
 - **Persistent Storage:** Bookmarks are stored in Chrome's storage, ensuring accessibility even after closing the browser.
 - **Icon-Based Controls:** Intuitive icons for bookmark actions (play, delete).
 
+## Load the extension:
+
+- Open Chrome and navigate to chrome://extensions/.
+- Enable "Developer mode" in the top right.
+- Click "Load unpacked" and select the extension directory.
